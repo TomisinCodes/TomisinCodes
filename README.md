@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomisinCodes
+- 👋 Hi, I’m Tomisin
 
 Data Analysis & Business Intelligence. Eager to learn about the latest and up-to-date technologies and I'm also a very tech-savvy person.
 
